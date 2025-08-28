@@ -1,10 +1,4 @@
-like so I am also creating a github, so modify according to same standards.
-
-
-
-note this will a markup file. so it looks cool also.
-
-"# 💫 About Me:
+# 💫 About Me:
 I build things with code — sometimes it’s a website that looks simple but works fast and smooth, sometimes it’s a data pipeline that takes messy information and turns it into something useful.  
 
 Over the past few years, I’ve worked with **web technologies like React, Node.js, and MongoDB**, and I’ve also spent a lot of time with **Python**, where I use it not only for web backends but also for **data analysis and automation**. Lately, I’ve been diving deeper into **data engineering and data science**, learning how to handle large amounts of data, run smart algorithms, and get insights that actually make a difference.  
@@ -34,4 +28,3 @@ I believe good technology should feel simple on the outside, no matter how compl
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RMWajahat&limit=5&theme=dark&combine_all_yearly_contributions=true)
-"
